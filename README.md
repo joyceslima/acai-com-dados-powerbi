@@ -6,7 +6,9 @@ Este dashboard foi desenvolvido durante um workshop de 4 semanas ministrado por 
 
 🔗 Acesse o dashboard interativo: *[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiZTU2ZDFlNzUtM2M1Yi00ODEwLWEyZWMtMDFlMDE0MDFjNzE2IiwidCI6IjM2NDM3MDhkLTFmOWEtNDdlYS1hYzExLTNhMGM4MmE5YTljZiJ9)*
 
-📈 O que este Dashboard Apresenta?
+---
+
+### 📈 O que este Dashboard Apresenta?
 
 - Visão geral dos dados analisados
 

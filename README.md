@@ -1,6 +1,6 @@
 <h1  align="center"> 📊 Dashboard Power BI - Workshop Açai com Dados </h1>
 
-#### 📌Sobre o Projeto
+### 📌Sobre o Projeto
 
 Este dashboard foi desenvolvido durante um workshop de 4 semanas ministrado por Beatriz Gomes, promovido pela comunidade Açai com Dados. O objetivo foi explorar e visualizar dados de forma eficiente utilizando o Power BI.
 
@@ -18,7 +18,7 @@ Este dashboard foi desenvolvido durante um workshop de 4 semanas ministrado por 
 
 ---
 
-#### 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 Power BI - Para criação e visualização dos dados
 
@@ -42,10 +42,10 @@ Durante este workshop, foram explorados conceitos essenciais para análise de da
 
 ---
 
-#### 👥 Sobre a Comunidade Açai com Dados
+### 👥 Sobre a Comunidade Açai com Dados
 
 A Açai com Dados é uma comunidade dedicada ao aprendizado e troca de experiências sobre ciência de dados, análise de dados e ferramentas de BI. Se quiser saber mais e participar de eventos futuros, acesse as redes sociais da comunidade! 🚀
 
 📌 LinkedIn / Instagram / Discord
 
-Se tiver dúvidas ou quiser trocar ideias sobre o projeto, fique à vontade para contribuir ou entrar em contato! 😊🚀
+Se tiver dúvidas ou quiser trocar ideias sobre o projeto, fique à vontade para contribuir ou entrar em contato! 😊

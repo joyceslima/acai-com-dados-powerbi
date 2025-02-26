@@ -1,20 +1,23 @@
+<h1  align="center"> 📊 Dashboard Power BI - Workshop Açai com Dados </h1>
+
 ### 📌Sobre o Projeto
 
 Este dashboard foi desenvolvido durante um workshop de 4 semanas ministrado por Beatriz Gomes, promovido pela comunidade Açai com Dados. O objetivo foi explorar e visualizar dados de forma eficiente utilizando o Power BI.
 
 🔗 Acesse o dashboard interativo: Clique aqui
+
 📊 O que este Dashboard Apresenta?
 
-    📌 Visão geral dos dados analisados
-    📈 Principais insights extraídos
-    🎯 Indicadores e métricas relevantes
-    🔍 Visualizações interativas para facilitar a análise
+📌 Visão geral dos dados analisados
+📈 Principais insights extraídos
+🎯 Indicadores e métricas relevantes
+🔍 Visualizações interativas para facilitar a análise
 
 ### 🛠️ Tecnologias Utilizadas
 
-    Power BI - Para criação e visualização dos dados
-    DAX (Data Analysis Expressions) - Para cálculos e métricas personalizadas
-    ETL no Power Query - Para tratamento e modelagem dos dados
+Power BI - Para criação e visualização dos dados
+DAX (Data Analysis Expressions) - Para cálculos e métricas personalizadas
+ETL no Power Query - Para tratamento e modelagem dos dados
 
 ### 🎯 Aprendizados e Experiência
 

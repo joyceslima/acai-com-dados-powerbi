@@ -4,7 +4,7 @@
 
 Este dashboard foi desenvolvido durante um workshop de 4 semanas ministrado por Beatriz Gomes, promovido pela comunidade Açai com Dados. O objetivo foi explorar e visualizar dados de forma eficiente utilizando o Power BI.
 
-🔗 Acesse o dashboard interativo: *[Flex Grid](https://app.powerbi.com/view?r=eyJrIjoiZTU2ZDFlNzUtM2M1Yi00ODEwLWEyZWMtMDFlMDE0MDFjNzE2IiwidCI6IjM2NDM3MDhkLTFmOWEtNDdlYS1hYzExLTNhMGM4MmE5YTljZiJ9))Clique aqui*
+🔗 Acesse o dashboard interativo: *[Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiZTU2ZDFlNzUtM2M1Yi00ODEwLWEyZWMtMDFlMDE0MDFjNzE2IiwidCI6IjM2NDM3MDhkLTFmOWEtNDdlYS1hYzExLTNhMGM4MmE5YTljZiJ9))*
 
 📊 O que este Dashboard Apresenta?
 

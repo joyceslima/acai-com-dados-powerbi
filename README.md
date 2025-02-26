@@ -48,6 +48,6 @@ Durante este workshop, foram explorados conceitos essenciais para análise de da
 
 A Açai com Dados é uma comunidade dedicada ao aprendizado e troca de experiências sobre ciência de dados, análise de dados e ferramentas de BI. Se quiser saber mais e participar de eventos futuros, acesse as redes sociais da comunidade! 🚀
 
-📌 [LinkedIn](https://www.linkedin.com/posts/acai-com-dados_a-comunidade-est%C3%A1-preparando-diversos-projetos-activity-7276974871169892352-gwBh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkqfJEBeZbvFJW3cKAseLqENDvqgqF29k8) / Instagram / Discord
+📌 [LinkedIn](https://www.linkedin.com/posts/acai-com-dados_a-comunidade-est%C3%A1-preparando-diversos-projetos-activity-7276974871169892352-gwBh?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkqfJEBeZbvFJW3cKAseLqENDvqgqF29k8) / [Instagram](https://www.instagram.com/acaicomdados/) 
 
 Se tiver dúvidas ou quiser trocar ideias sobre o projeto, fique à vontade para contribuir ou entrar em contato! 😊
